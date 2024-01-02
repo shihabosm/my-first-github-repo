@@ -1,0 +1,169 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .my{
+    background-color: yellow;
+    width: 50%;
+    padding: 20px;
+    border-radius: 20px 600px;
+  
+  }
+  .tho
+  {
+    margin-left: 100px;
+  }
+  .art{
+    margin-top: 50px;
+    line-height: 25px;
+    word-spacing: 6px;
+    
+  }
+  .blog{
+    color: rgb(52, 152, 219);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .how{
+    color: rgb(52, 152, 219);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .best{
+    margin: 50px 0;
+  }
+  ol li a{
+    text-decoration: none;
+    line-height: 30px;
+    word-spacing: 5px;
+    color: rgb(52, 152, 219);
+  }
+  
+  .aqu{
+    margin-left: 60px;
+  
+  }
+  .photo{
+    margin: 50px 0;
+  }
+  .zion{
+    font-weight: 600;
+    
+  }
+  .add{
+    color: rgb(52, 152, 219);
+    cursor: pointer;
+  }
+  .ta{
+    font-weight: 600;
+    margin: 40px 0;
+  
+  }
+  
+  ul li{
+    list-style-position: outside;
+   
+    
+  }
+  .cle{
+    margin: 20px 0;
+  }
+  .exp{
+    margin: 20px 0;
+  }
+  .pur{
+    font-weight: 600;
+  }
+  .jenny{
+    width: 50%;
+    margin: auto;
+  }
+  .des{
+    margin: 60px;
+  }
+  .sea{
+    color: rgb(52, 152, 219);
+    cursor: pointer;
+  }
+  .int{
+    margin: 0 60px;
+    line-height: 25px;
+  }
+  .awa{
+    color: rgb(52, 152, 219);
+    cursor: pointer;
+  }
+  .fol{
+    margin: 30px 30px;
+  }
+  .devy{
+    margin: 50px 30px;
+    border: 2px solid black;
+    width: 230px;
+   box-shadow: 10px 5px 30px black;
+  
+  }
+  
+  
+  
+  .dev{
+    width: 230px;
+    
+  
+  }
+  .devx{
+    padding: 5px;
+    text-shadow: 1px 1px 2px tomato;
+    font-family: 'Courier New', Courier, ;
+    cursor: pointer;
+  }
+  .state{
+    margin: 50px 30px ;
+    width: 230px;
+    border: 2px solid tomato;
+  
+  }
+  .statey{
+    width: 230px;
+  }
+  .statex{
+    padding: 5px;
+    text-shadow: 1px 1px 2px blueviolet;
+    font-family: sans-serif ;
+    cursor: pointer;
+  }
+  .hey{
+    margin: 50px 30px ;
+    width: 230px;
+    border: 2px solid blue;
+  }
+  .heyy{
+    width: 230px;
+  }
+  .heyx{
+    padding: 5px;
+    text-shadow: 1px 1px 2px blue;
+    font-family: sans-serif ;
+    cursor: pointer;
+  }
+  .mem{
+    margin: 50px 30px ;
+    width: 230px;
+    border: 2px solid wheat;
+  }
+  .memy{
+    width: 230px;
+  }
+  .memx{
+    padding: 5px;
+    text-shadow: 1px 1px 2px wheat;
+    font-family: sans-serif ;
+    cursor: pointer;
+  }
+  .content{
+    display: flex;
+    margin: ;
+  }
